@@ -1,0 +1,22 @@
+F1B7C1
+.logotipo{
+    width: 120px;
+    position: relative;
+    top: 20px;
+    left: 20px;
+}
+
+
+.cabecalho{
+    background-color: #F1B7C1;
+    color: black;
+}
+
+
+.cabecalho-lista{
+    display: flex;
+    position: relative;
+    left: 300px;
+
+
+}
