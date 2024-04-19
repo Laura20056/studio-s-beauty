@@ -24,3 +24,9 @@ F1B7C1
 
 
 }
+
+.pagina-inicial{
+    display: grid;
+    grid-template-columns: 30% 40%;
+    
+}
